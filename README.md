@@ -1,2 +1,2 @@
 # simple-projects
-a simple recipes site created using HTML CSS and little javascript
+a simple university site created using HTML CSS and little javascript
